@@ -10,3 +10,5 @@ Di cham bai
 Dung GIT GUI here
 
 Dung SourceTree
+
+Noi dung moi o nhanh Main
