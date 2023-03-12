@@ -12,4 +12,6 @@ Dung GIT GUI here
 Dung SourceTree
 
 Noi dung moi o nhanh Main
-Noi dung moi o nhanh Main dong thu 2
+
+Noi dung nhanh C duoc them vao
+
